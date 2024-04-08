@@ -10,7 +10,7 @@ export const getToken = () => {
 }
 
 export const http = axios.create({
-    baseURL: `http://highnox.site/highnox`,
+    baseURL: `https://highnox.site/highnox`,
     // withCredentials: true,
 });
 
